@@ -6,39 +6,39 @@
 
 ## 实现功能
 
-**登录界面：**
+**登录页面：**
 
-![登陆页面](pictures\登录页面.jpg)
+![](https://github.com/Ariseagain-cell/X-ManageSystem/blob/main/pictures/%E7%99%BB%E5%BD%95%E9%A1%B5%E9%9D%A2.jpg)
 
 
 
 **首页：标签栏导航**
 
-![首页](pictures\首页.png)
+![](https://github.com/Ariseagain-cell/X-ManageSystem/blob/main/pictures/%E9%A6%96%E9%A1%B5.png)
 
 
 
 **用户管理：**
 
-![用户管理](pictures\用户管理页面.jpg)
+![用户管理](https://github.com/Ariseagain-cell/X-ManageSystem/blob/main/pictures/%E7%94%A8%E6%88%B7%E7%AE%A1%E7%90%86%E9%A1%B5%E9%9D%A2.jpg)
 
 
 
 **新增用户：**
 
-![新增用户](pictures\新增用户.png)
+![新增用户](https://github.com/Ariseagain-cell/X-ManageSystem/blob/main/pictures/%E6%96%B0%E5%A2%9E%E7%94%A8%E6%88%B7.png)
 
 
 
 **修改用户：**
 
-![修改用户](pictures\修改用户.png)
+![](https://github.com/Ariseagain-cell/X-ManageSystem/blob/main/pictures/%E4%BF%AE%E6%94%B9%E7%94%A8%E6%88%B7.png))
 
 
 
 **删除用户 ：**
 
-![删除用户](pictures\删除用户.png)
+![删除用户](https://github.com/Ariseagain-cell/X-ManageSystem/blob/main/pictures/%E5%88%A0%E9%99%A4%E7%94%A8%E6%88%B7.png)
 
 
 
